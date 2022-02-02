@@ -1,3 +1,4 @@
+package com.hcl.exceptiontest;
 import java.util.Scanner;
 
 public class studentException {
