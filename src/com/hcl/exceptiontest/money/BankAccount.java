@@ -1,4 +1,4 @@
-package com.hcl.exceptiontest;
+package com.hcl.exceptiontest.money;
 
 public class BankAccount {
 
